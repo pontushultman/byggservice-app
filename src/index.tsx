@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
-console.log("hello")
+import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -12,12 +12,14 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
 
-console.log("smell")
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
