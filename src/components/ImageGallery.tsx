@@ -1,5 +1,7 @@
 import React from 'react';
 
+import Image from '../components/bild.jpg'
+
 function ImageGallery() {
     return (
         <div className="row m-2" id="work">
@@ -44,7 +46,7 @@ function ImageGallery() {
                 />
 
                 <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain3.webp"
+                    src={Image}
                     className="w-100 shadow-1-strong rounded mb-4"
                     alt="Yosemite National Park"
                 />
