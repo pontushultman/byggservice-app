@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/byggservice-app/static/css/main.c3148a6c.css",
-    "main.js": "/byggservice-app/static/js/main.ce0133fc.js",
+    "main.js": "/byggservice-app/static/js/main.393b065d.js",
     "static/js/787.553531fe.chunk.js": "/byggservice-app/static/js/787.553531fe.chunk.js",
     "static/media/photo-1641371084529-1f4c8d40cea3.webp": "/byggservice-app/static/media/photo-1641371084529-1f4c8d40cea3.b24cf01a675abf49e390.webp",
+    "static/media/bild.jpg": "/byggservice-app/static/media/bild.93dbd3b6afab74c67bd9.jpg",
     "index.html": "/byggservice-app/index.html",
     "main.c3148a6c.css.map": "/byggservice-app/static/css/main.c3148a6c.css.map",
-    "main.ce0133fc.js.map": "/byggservice-app/static/js/main.ce0133fc.js.map",
+    "main.393b065d.js.map": "/byggservice-app/static/js/main.393b065d.js.map",
     "787.553531fe.chunk.js.map": "/byggservice-app/static/js/787.553531fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3148a6c.css",
-    "static/js/main.ce0133fc.js"
+    "static/js/main.393b065d.js"
   ]
 }
